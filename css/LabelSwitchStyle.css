@@ -1,0 +1,166 @@
+ul,li{padding: 0; margin: 0; list-style: none;}
+
+.appSwitch>li{
+    float: left;
+    background: #969696;
+    color: #fff;
+    padding: 5px;
+    margin-right: 2px;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+.appSwitch .option{
+    background: #ff3c3c;
+    border: 1px solid #ff3c3c;
+}
+.contentFirst{
+    clear: both;
+    width: 182px;
+    height: 80px;
+    background: #ff3c3c;
+    padding: 2px;
+    line-height: 80px;
+    text-align: center;
+    display: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+.opContent{
+    display: block;
+}
+
+.tabSecond>li{
+    float: left;
+    border: 1px solid #fff;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: lighter;
+    color: #67DAFA;
+    background: #2B2C2E;
+    cursor: pointer;
+    margin-right: 4px;
+}
+
+.tabSecond .option{
+    border: 1px solid #6B6C6D;
+    background: #6B6C6D;
+    border-bottom: 0;
+    z-index: 100;
+    position: relative;
+
+}
+
+.contentSecond{
+    background: #6B6C6D;
+    border: 1px solid #6B6C6D;
+    height: 140px;
+    width: 374px;
+    clear: both;
+    line-height: 140px;
+    text-align: center;
+    position: relative;
+    top: -1px;
+    color: #60DBFC;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
